@@ -6,13 +6,16 @@
 ## I'm a Developer and an Entrepreneur in the making!
 
 - 🔭 I am the creator of [kscore](https://kscore.netlify.app)⚽
-- 🌱 I’m currently perfecting in Django, Laravel, Vue.js & React with some splash of Devops😊
+- 🌱 I’m currently developing apps in Django, Laravel, Vue.js & React with some splash of Devops😊
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects and Personal too.
 - ⚡ Fun fact: I'm an EA sports guru.
 
 ### Languages and Tools: 
-VUE.JS, REACT.JS EXRESS.JS, LARAVEL, DJANGO, JAVASCRIPT, PYTHON, PHP, CSS, SASS, HTML5, DEVEOPS
+- VUE.JS, REACT.JS
+- LARAVEL, EXRESS.JS, DJANGO, FIREBASE
+- JAVASCRIPT, PYTHON, PHP, CSS, SASS, HTML5
+- REST, GRAPHQL, DEVOPS.
 
 <br />
 
@@ -32,12 +35,25 @@ VUE.JS, REACT.JS EXRESS.JS, LARAVEL, DJANGO, JAVASCRIPT, PYTHON, PHP, CSS, SASS,
 
 <br />
 
+### Some of my Projects
+
+- [Kscore Match Highlights](https://kscore.netlify.app)
+- [Instagram clone](https://quasargram-96646.web.app)
+- [Github Issue Tracker ](https://kscore.netlify.app)
+- [Stock Market Rates](https://stock-market-exchange.netlify.app)
+- [Admin Dashboard](https://quasar-admin-site.netlify.app)
+- [Human Resource Management System](https://hr-management-system.herokuapp.com)
+
+<br />
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Espira Marvin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EspiraMarvin&show_icons=true&hide_border=true" />
+  <img align="left" alt="Espira Marvin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EspiraMarvin&show_icons=true&hide_border=false" />
 
 </details>
+
+
 
 [website]: https://espiramarvin.netlify.app
 [twitter]: https://twitter.com/marvin_espira
