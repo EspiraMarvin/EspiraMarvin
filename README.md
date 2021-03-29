@@ -6,16 +6,19 @@
 ## I'm a Developer and an Entrepreneur in the making!
 
 - 🔭 I am the creator of [kscore](https://kscore.netlify.app)⚽
-- 🌱 I’m currently developing apps in Django, Laravel, Vue.js & React with some splash of Devops😊
+- 🌱 I’m currently developing apps in Vue.js, React, Django, Laravel with some splash of Devops😊
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects and Personal too.
 - ⚡ Fun fact: I'm an EA sports guru.
 
 ### Languages and Tools: 
 - VUE.JS, REACT.JS
-- LARAVEL, EXRESS.JS, DJANGO, FIREBASE
-- JAVASCRIPT, PYTHON, PHP, CSS, SASS, HTML5
-- REST, GRAPHQL, DEVOPS.
+- LARAVEL, EXRESS.JS, DJANGO
+- REST API, GRAPHQL, DEVOPS
+- MySQL, POSTGRESQL, MONGODB, FIREBASE
+- JAVASCRIPT, PYTHON, PHP, CSS, SASS, HTML5.
+
+💻 CROSS-PLATFORM DEVELOPER 💻
 
 <br />
 
