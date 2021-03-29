@@ -52,7 +52,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Espira Marvin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EspiraMarvin&show_icons=false&hide_border=false" />
+  <img align="left" alt="Espira Marvin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EspiraMarvin&show_icons=true&hide_border=true" />
 
 </details>
 
