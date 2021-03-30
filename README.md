@@ -35,10 +35,11 @@
 
 - [Kscore Match Highlights](https://kscore.netlify.app)
 - [Instagram clone](https://quasargram-96646.web.app)
-- [Github Issue Tracker ](https://kscore.netlify.app)
 - [Stock Market Rates](https://stock-market-exchange.netlify.app)
 - [Admin Dashboard](https://quasar-admin-site.netlify.app)
+- [Github Issue Tracker ](https://kscore.netlify.app)
 - [Human Resource Management System](https://hr-management-system.herokuapp.com)
+
 
 <br />
 
