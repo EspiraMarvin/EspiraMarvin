@@ -6,9 +6,10 @@
 ## I'm a Developer and an Entrepreneur in the making!
 
 - 🔭 I am the creator of [kscore](https://kscore.netlify.app)⚽. You can [HIRE](mailto:espiramarvin@gmail.com) me too.
-- 🌱 I’m currently developing apps in Vue.js, React, Laravel, Django with some splash of Devops😊
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects and Personal too.
+- 🌱 I’m currently developing apps in 
+ ```
+    Vue.js,  React, Laravel, Django with some splash of Devops😊
+```
 - ⚡ Fun fact: I'm an EA sports guru.
 
 ### Languages and Tools: 
