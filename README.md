@@ -5,7 +5,7 @@
 
 ## I'm a Developer and an Entrepreneur in the making!
 
-- 🔭 I am the creator of [kscore](https://kscore.netlify.app)⚽
+- 🔭 I am the creator of [kscore](https://kscore.netlify.app)⚽. You can HIRE me too.
 - 🌱 I’m currently developing apps in Vue.js, React, Django, Laravel with some splash of Devops😊
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects and Personal too.
@@ -18,7 +18,7 @@
 - MySQL, POSTGRESQL, MONGODB, FIREBASE
 - JAVASCRIPT, PYTHON, PHP, CSS, SASS, HTML5.
 
-💻 CROSS-PLATFORM DEVELOPER 💻
+*** CROSS-PLATFORM DEVELOPER 💻📱🖥🌍
 
 <br />
 
