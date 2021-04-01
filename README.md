@@ -38,7 +38,7 @@
 - [Instagram clone](https://quasargram-96646.web.app)
 - [Stock Market Rates](https://stock-market-exchange.netlify.app)
 - [Admin Dashboard](https://quasar-admin-site.netlify.app)
-- [Github Issue Tracker ](https://kscore.netlify.app)
+- [Github Issue Tracker ](https://test-graphql.netlify.app)
 - [Human Resource Management System](https://hr-management-system.herokuapp.com)
 
 
