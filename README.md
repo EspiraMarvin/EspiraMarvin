@@ -10,7 +10,7 @@
  ```
     Vue.js,  React, Laravel, Django with Devops😊
 ```
-- 🎈 Currently Learning AWS, GITHUB ACTIONS and Django API
+- 🎈 Currently Learning AWS, GITHUB ACTIONS
 - ⚡ Fun fact: I'm an EA sports guru.
 
 ### Languages and Tools: 
