@@ -36,7 +36,8 @@
 ### Some of my Projects
 
 - [Kscore Match Highlights](https://kscore.netlify.app)
-- [Instagram clone](https://quasargram-96646.web.app)
+- [Twitter Clone](https://twitter-clone-espiramarvin.vercel.app)
+- [Instagram Clone](https://quasargram-96646.web.app)
 - [Stock Market Rates](https://stock-market-exchange.netlify.app)
 - [Admin Dashboard](https://quasar-admin-site.netlify.app)
 - [Github Issue Tracker ](https://test-graphql.netlify.app)
