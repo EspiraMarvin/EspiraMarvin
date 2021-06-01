@@ -10,7 +10,6 @@
  ```
     VUE.JS, REACT.JS, LARAVEL with Devops😊
 ```
-- 🎈 Currently Learning AWS
 - ⚡ Fun fact: I'm an EA sports guru.
 
 ### Languages and Tools: 
