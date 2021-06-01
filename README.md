@@ -8,9 +8,8 @@
 - 🔭 I am the creator of [kscore](https://kscore.netlify.app)⚽. You can [HIRE](mailto:espiramarvin@gmail.com) me too.
 - 🌱 I’m currently developing apps in 
  ```
-    VUE.JS, REACT.JS, LARAVEL with Devops😊
+    VUE.JS, REACT.JS, LARAVEL with Devops
 ```
-- ⚡ Fun fact: I'm an EA sports guru.
 
 ### Languages and Tools: 
 - VUE.JS, REACT.JS
