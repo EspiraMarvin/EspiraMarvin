@@ -35,7 +35,7 @@
 
 - [Kscore Match Highlights](https://kscore.netlify.app)
 - [Twitter Clone](https://twitter-clone-ten.vercel.app)
-- [Chat Application](https://quasar-chatpp.vercel.app)
+- [Chat Application](https://quasar-chatpp.vercel.app/auth)
 - [Instagram Clone](https://quasargram-96646.web.app)
 - [Dashboard 1](https://quasar-admin-site.netlify.app)
 - [Dashboard 2](https://quasar-tailwind.vercel.app)
