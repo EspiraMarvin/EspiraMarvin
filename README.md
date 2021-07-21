@@ -10,6 +10,9 @@
  ```
     VUE.JS, REACT.JS, LARAVEL, NODEJS with Devops
 ```
+```
+   Learning AWS
+```
 
 ### Languages and Tools: 
 - VUE.JS, REACT.JS
