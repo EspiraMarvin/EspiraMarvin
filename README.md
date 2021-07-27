@@ -10,9 +10,6 @@
  ```
     VUE.JS, REACT.JS, LARAVEL, NODEJS with Devops
 ```
-```
-   Learning AWS
-```
 
 ### Languages and Tools: 
 - VUE.JS, REACT.JS
@@ -61,12 +58,7 @@
 
 </details>
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/4EjbKh1XuAZpZ0u1ry0oyJ?si=e1hiqjj2QmKWB-HgB3huoQ)
-
 <br />
-
 
 [website]: https://espiramarvin.netlify.app
 [twitter]: https://twitter.com/marvin_espira
