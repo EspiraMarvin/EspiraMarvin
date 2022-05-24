@@ -35,6 +35,7 @@
 ### Some of my Projects
 
 - [Kscore Match Highlights](https://kscore.netlify.app)
+- [Memory Game](https://magicmemorygame.netlify.app/)
 - [Twitter Clone](https://twitter-clone-ten.vercel.app)
 - [Chat Application](https://quasar-chatpp.vercel.app/auth)
 - [Table Consuming API](https://touch-inspiration.vercel.app/)
