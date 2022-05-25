@@ -5,7 +5,7 @@
 
 ## I'm a Full-Stack Software Developer & a Technical Writer!
 
-- 🔭 I am the creator of [kscore](https://kscore.netlify.app)⚽. You can [HIRE](mailto:espiramarvin@gmail.com) me too.
+- 🔭 I am the creator of [kscore](https://kscore.netlify.app) ⚽. You can [HIRE](mailto:espiramarvin@gmail.com) me too.
 - 🌱 I’m currently developing apps in 
  ```
     REACT.JS, VUE.JS && NODEJS with Devops
