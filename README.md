@@ -51,13 +51,6 @@
 
 <br />
 
- <summary>:zap: Languages <summary>
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EspiraMarvin&langs_count=8)](https://github.com/EspiraMarvin/github-readme-stats)
- 
- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EspiraMarvin&layout=compact)](https://github.com/EspiraMarvin/github-readme-stats)
- 
 <details>
  
   <summary>:zap: GitHub Stats</summary>
