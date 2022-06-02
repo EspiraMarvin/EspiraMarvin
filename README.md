@@ -20,8 +20,6 @@
 - MySQL, POSTGRESQL, MONGODB, FIREBASE
 - NGINX, LINUX
 
-*** CROSS-PLATFORM DEVELOPER 💻📱🖥🌍
-
 <br />
 
 ### Connect with me:
