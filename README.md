@@ -33,6 +33,8 @@
 
 ### Some of my Projects
 
+
+- [Netflix Clone](http://netflix-fakeflix.vercel.app/)
 - [Kscore Match Highlights](https://kscore.netlify.app)
 - [Memory Game](https://magicmemorygame.netlify.app/)
 - [Twitter Clone](https://twitter-clone-ten.vercel.app)
