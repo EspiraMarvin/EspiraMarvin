@@ -2,12 +2,9 @@
 
 [![Website](https://img.shields.io/website?label=EspiraMarvin.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]()
 [![Twitter Follow](https://img.shields.io/twitter/follow/marvin_espira?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=marvin_espira)
+![Profile Visits](https://komarev.com/ghpvc/?username=EspiraMarvin&style=for-the-badge)
 
 ## I'm a Full-Stack Software Developer & a Technical Writer!
-
-### Profile Visits
-
-![](https://komarev.com/ghpvc/?username=EspiraMarvin)
 
 ### Languages and Tools: 
 - REACT.JS, VUE.JS, NODE.JS, EXPRESS.JS
