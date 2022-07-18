@@ -7,14 +7,14 @@
 ## I'm a Full-Stack Software Developer & a Technical Writer!
 
 ### Languages and Tools: 
-- Langs: JAVASCRIPT, TYPESCRIPT.
-- Front-end: REACT.JS, REDUX, RECOIL, VUE.JS, PINIA, VUEX, TAILWINDCSS
-- Back-end:NODE.JS, EXPRESS.JS
+- LANGS: Javascript, Typescript.
+- FRONTEND: Reactjs, Redux, Redux/Toolkit, Recoil, Vuejs, Pinia, Tailwindcss
+- BACKEND: Nodejs, Expressjs
 - DEVOPS: CICD, Docker, Github Actions
-- Testing: JEST, CYPRESS
-- Databases(sql/nosql): MySQL, POSTGRESQL, MONGODB, FIREBASE
-- Versioning: GIT
-- Others: PHP LARAVEL, REST API, GRAPHQL, BOOTSTRAP, NGINX, LINUX, 
+- TESTING: Jest, Cypress
+- DATABASES(sql/nosql): Mysql, Postgresql, MongoDB, Firebase
+- VERSIONING: Git
+- OTHERS: Linx, Php Laravel, Rest Apis, Graphql, Bootstrap, Nginx, , 
 
 <br />
 
