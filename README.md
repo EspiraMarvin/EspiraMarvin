@@ -7,7 +7,7 @@
 
 ### Profile Visits
 
-![](https://komarev.com/ghpvc/?EspiraMarvin=EspiraMarvin)
+![](https://komarev.com/ghpvc/?username=EspiraMarvin)
 
 ### Languages and Tools: 
 - REACT.JS, VUE.JS, NODE.JS, EXPRESS.JS
