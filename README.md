@@ -5,6 +5,9 @@
 
 ## I'm a Full-Stack Software Developer & a Technical Writer!
 
+### Profile Visits
+
+![](https://komarev.com/ghpvc/?EspiraMarvin=EspiraMarvin)
 
 ### Languages and Tools: 
 - REACT.JS, VUE.JS, NODE.JS, EXPRESS.JS
