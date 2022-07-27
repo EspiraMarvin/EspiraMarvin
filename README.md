@@ -8,7 +8,7 @@
 
 ### Languages and Tools: 
 - LANGS: Javascript, Typescript.
-- FRONTEND: Reactjs, Redux/Toolkit, Recoil, Vuejs, Pinia, Tailwindcss, Boostrap, CSS, SCSS
+- FRONTEND: Reactjs, Redux/Toolkit, Recoil, Vuejs, Pinia, Tailwindcss, Boostrap, Css, Scss
 - BACKEND: Nodejs, Expressjs
 - DEVOPS: CICD, Docker, Github Actions
 - TESTING: Jest, Cypress
