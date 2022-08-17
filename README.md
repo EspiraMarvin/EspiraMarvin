@@ -24,7 +24,7 @@
 - [Kscore Match Highlights](https://kscore.netlify.app)
 - [Memory Game](https://magicmemorygame.netlify.app/)
 - [Twitter Clone](https://twitter-clone-ten.vercel.app)
-- [Chat Application](https://quasar-chatpp.vercel.app/auth)
+
 - [Table Consuming API](https://touch-inspiration.vercel.app/)
 - [Instagram Clone](https://quasargram-96646.web.app)
 - [Dashboard 1](https://quasar-admin-site.netlify.app)
@@ -42,7 +42,6 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="EspiraMarvin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
