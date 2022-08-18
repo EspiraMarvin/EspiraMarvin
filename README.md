@@ -11,7 +11,7 @@
 - FRONTEND: Reactjs, Redux/Toolkit, Recoil, Vuejs, Pinia, Tailwindcss, Boostrap, Css, Scss
 - BACKEND: Nodejs, Expressjs
 - DEVOPS: CICD, Docker, Github Actions
-- TESTING: Jest, Cypress
+- TESTING: RTL, Jest, Cypress
 - DATABASES(sql/nosql): Mysql, Postgresql, MongoDB, Firebase
 - VERSIONING: Git
 - OTHERS: Linx, Php Laravel, Rest Apis, Graphql, Bootstrap, Nginx, , 
