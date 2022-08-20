@@ -20,16 +20,12 @@
 
 ### Some of my Projects
 
-- [Netflix Clone](http://netflix-fakeflix.vercel.app/)
 - [Kscore Match Highlights](https://kscore.netlify.app)
+- [Netflix Clone](http://netflix-fakeflix.vercel.app/)
 - [Memory Game](https://magicmemorygame.netlify.app/)
 - [Twitter Clone](https://twitter-clone-ten.vercel.app)
-
-- [Table Consuming API](https://touch-inspiration.vercel.app/)
 - [Instagram Clone](https://quasargram-96646.web.app)
-- [Dashboard 1](https://quasar-admin-site.netlify.app)
-- [Survey App with Django API](https://busara-front-end.vercel.app/)
-- [Dashboard 2](https://quasar-tailwind.vercel.app)
+- [Admin Dashboard](https://quasar-admin-site.netlify.app)
 - [Github Repo/Issue Tracker ](https://test-graphql.netlify.app)
 - [BookRead List App](https://books-read.netlify.app/)
 - [Human Resource Management System](https://hr-management-system.herokuapp.com)
