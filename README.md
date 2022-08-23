@@ -1,6 +1,6 @@
-### Hi there 👋, I'm a Software Developer based in Nairobi, Kenya.
+#### Hi there 👋, I'm a Software Developer based in Nairobi, Kenya.
 
-### Languages and Tools: 
+##### Languages and Tools: 
 - LANGS: Javascript, Typescript.
 - FRONTEND: Reactjs, Redux/Toolkit, Recoil || Vuejs, Pinia || Tailwindcss, Boostrap, CSS, Scss
 - BACKEND: Nodejs, Expressjs
@@ -10,9 +10,11 @@
 - VERSIONING: GIT
 - OTHERS: Linx, Php Laravel, Rest Apis, Graphql, Nginx
 
+ currently learning GO
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxyoCFVAdHZoR1goNVeZUXYVkezcYAb-mEkg&usqp=CAU" alt="Go" style="width:100px; height: 80px; text-align: center"/>
 
-### Some of my Projects
 
+##### Some of my Projects
 - [Kscore Match Highlights](https://kscore.netlify.app)
 - [Netflix Clone](http://netflix-fakeflix.vercel.app/)
 - [Memory Game](https://magicmemorygame.netlify.app/)
