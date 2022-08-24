@@ -8,11 +8,14 @@
 - TESTING: RTL, Jest, Cypress
 - DATABASES(sql/nosql): Mysql, Postgresql, MongoDB, Firebase
 - VERSIONING: GIT
-- OTHERS: Linx, Php Laravel, Rest Apis, Graphql, Nginx
+- OTHERS: Linux, Php Laravel, Rest APIs, Graphql, Nginx
 
  currently learning GO
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxyoCFVAdHZoR1goNVeZUXYVkezcYAb-mEkg&usqp=CAU" alt="Go" style="width:100px; height: 80px; text-align: center"/>
 
+##### Wakatime
+<img src="https://wakatime.com/share/@marvinespira/19af76d4-2e42-4a81-8b26-798ab7c4ab10.svg" alt="wakatime" style="width:100%; text-align: center"/>
+<figure><embed src="https://wakatime.com/share/@marvinespira/19af76d4-2e42-4a81-8b26-798ab7c4ab10.svg"></embed></figure>
 
 ##### Some of my Projects
 - [Kscore Match Highlights](https://kscore.netlify.app)
