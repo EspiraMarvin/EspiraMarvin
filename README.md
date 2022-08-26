@@ -2,7 +2,7 @@
 
 ##### Languages and Tools: 
 - LANGS: Javascript, Typescript.
-- FRONTEND: Reactjs, Redux/Toolkit, Recoil || Vuejs, Pinia || Tailwindcss, Boostrap, CSS, Scss
+- FRONTEND: Reactjs, Redux/Toolkit, Recoil || Vuejs, Vuex, Pinia || Tailwindcss, Boostrap, CSS, Scss
 - BACKEND: Nodejs, Expressjs
 - DEVOPS: CICD, Docker, Github Actions
 - TESTING: RTL, Jest, Cypress
@@ -12,9 +12,6 @@
 
  > currently learning GO
 > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxyoCFVAdHZoR1goNVeZUXYVkezcYAb-mEkg&usqp=CAU" alt="Go" style="width:100px; height: 80px; text-align: center"/>
-
-##### Wakatime
-<img src="https://wakatime.com/share/@marvinespira/6a25a3d0-b0e2-46d1-8e66-79d5c1c3d85a.svg" alt="wakatime" style="width:100%; text-align: center"/>
 
 ##### Some of my Projects
 - [Kscore Match Highlights](https://kscore.netlify.app)
