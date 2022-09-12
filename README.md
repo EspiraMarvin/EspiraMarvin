@@ -14,12 +14,12 @@
 > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxyoCFVAdHZoR1goNVeZUXYVkezcYAb-mEkg&usqp=CAU" alt="Go" style="width:100px; height: 80px; text-align: center"/>
 
 ##### Some of my Projects
-- [Kscore Match Highlights](https://kscore.netlify.app)
 - [Netflix Clone](http://netflix-fakeflix.vercel.app/)
 - [Memory Game](https://magicmemorygame.netlify.app/)
-- [Twitter Clone](https://twitter-clone-ten.vercel.app)
+- [Kscore Match Highlights](https://kscore.netlify.app)
 - [Instagram Clone](https://quasargram-96646.web.app)
 - [Admin Dashboard](https://quasar-admin-site.netlify.app)
+- [Twitter Clone](https://twitter-clone-ten.vercel.app)
 - [Github Repo/Issue Tracker ](https://test-graphql.netlify.app)
 - [Human Resource Management System](https://hr-management-system.herokuapp.com)
 
