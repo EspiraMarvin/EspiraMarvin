@@ -14,7 +14,7 @@
 > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxyoCFVAdHZoR1goNVeZUXYVkezcYAb-mEkg&usqp=CAU" alt="Go" style="width:100px; height: 80px; text-align: center"/>
 
 ##### Some of my Projects
-- [Events App](https://events-all.vercel.app/) - in development!!
+- [Events App](https://events-all.vercel.app/) -  under development..!!
 - [Netflix Clone](http://netflix-fakeflix.vercel.app/)
 - [Memory Game](https://magicmemorygame.netlify.app/)
 - [Kscore Match Highlights](https://kscore.netlify.app)
