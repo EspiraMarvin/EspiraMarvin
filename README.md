@@ -10,20 +10,6 @@
 - VERSIONING: GIT
 - OTHERS: Linux, Php Laravel, Rest APIs, Graphql, Nginx
 
- > currently learning GO
-> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxyoCFVAdHZoR1goNVeZUXYVkezcYAb-mEkg&usqp=CAU" alt="Go" style="width:100px; height: 80px; text-align: center"/>
-
-##### Some of my Projects
-- [Events App](https://events-all.vercel.app/) -  in development..!!
-- [Netflix Clone](http://netflix-fakeflix.vercel.app/)
-- [Memory Game](https://magicmemorygame.netlify.app/)
-- [Kscore Match Highlights](https://kscore.netlify.app)
-- [Instagram Clone](https://quasargram-96646.web.app)
-- [Admin Dashboard](https://quasar-admin-site.netlify.app)
-- [Twitter Clone](https://twitter-clone-ten.vercel.app)
-- [Github Repo/Issue Tracker ](https://test-graphql.netlify.app)
-- [Human Resource Management System](https://hr-management-system.herokuapp.com)
-
 
 [comment]: <> (This is a comment, it will not be included)
  
@@ -38,7 +24,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=EspiraMarvin&show_icons=true&hide_border=true" />
 
 
-[website]: https://espiramarvin.netlify.app
-[twitter]: https://twitter.com/marvin_espira
-[instagram]: https://instagram.com/t_b.a.g/
+[website]: https://marvine.vercel.app
+[twitter]: https://twitter.com/marvinespira
 [linkedin]: https://www.linkedin.com/in/marvin-espira-192348153/
