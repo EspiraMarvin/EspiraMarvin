@@ -3,7 +3,7 @@ Hi there, I'm <a href="https://marvine.vercel.app/" target="_blank" rel="norefer
   A Software Engineer based in Nairobi, Kenya
 </h3>
 
-##### Languages and Tools: 
+#### Languages and Tools: 
 - LANGS: Javascript, Typescript.
 - FRONTEND: Reactjs, Redux/Toolkit, Recoil || Vuejs, Vuex, Pinia || Tailwindcss, Boostrap, CSS, Scss
 - BACKEND: Nodejs, Expressjs
@@ -22,7 +22,7 @@ Hi there, I'm <a href="https://marvine.vercel.app/" target="_blank" rel="norefer
 
 <br>
 
-### 🤝 Connect with me:
+#### 🤝 Connect with me:
  
 <a href="https://www.linkedin.com/in/marvin-espira-192348153//"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
