@@ -1,5 +1,5 @@
 <h4 align="center">
-Hi there, I'm <a href="https://marvine.vercel.app/" target="_blank" rel="noreferrer">Marvin 🌍️</a>
+Hi there, I'm <a href="https://marvine.vercel.app/" target="_blank" rel="noreferrer">Marvin 🌍️.</a>
   A Software Engineer based in Nairobi, Kenya
 </h4>
 
