@@ -1,7 +1,7 @@
-<h4 align="center">
+<h3 align="center">
 Hi there, I'm <a href="https://marvine.vercel.app/" target="_blank" rel="noreferrer">Marvin 🌍️.</a>
   A Software Engineer based in Nairobi, Kenya
-</h4>
+</h3>
 
 ##### Languages and Tools: 
 - LANGS: Javascript, Typescript.
