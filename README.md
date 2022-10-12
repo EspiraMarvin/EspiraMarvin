@@ -2,14 +2,12 @@
   Hi there, I'm <a href="https://marvine.vercel.app/" target="_blank" rel="noreferrer">Marvin Espira.</a>
 </h3>
 <hr>
-
 <h4 align="center">
    A passionate Software Engineer from Kenya.
 </h4>
 
-
-
-* 💻️ I'm currently learning **Golang** 
+* 💻️ I'm currently learning **Golang & Typescript** 
+* All my projects are available at [https://marvine.vercel.app/](https://marvine.vercel.app/) 
 * Ask me about **Javascript, Typescript**
 * ✉️ How to reach me: [espiramarvin@gmail.com](espiramarvin@gmail.com) 
 
