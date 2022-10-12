@@ -6,10 +6,10 @@
    A passionate Software Engineer from Kenya.
 </h4>
 
-* 💻️ I'm currently learning **Golang & Typescript** 
-* All my projects are available at [https://marvine.vercel.app/](https://marvine.vercel.app/) 
-* Ask me about **Javascript, Typescript**
-* ✉️ How to reach me: [espiramarvin@gmail.com](espiramarvin@gmail.com) 
+>* 💻️ I'm currently learning **Golang & Typescript** 
+>* All my projects are available at [https://marvine.vercel.app/](https://marvine.vercel.app/) 
+>* Ask me about **Javascript, Typescript**
+>* ✉️ How to reach me: [espiramarvin@gmail.com](espiramarvin@gmail.com) 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
