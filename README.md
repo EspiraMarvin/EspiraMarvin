@@ -7,7 +7,7 @@
 </h4>
 
 >* Ask me about **Javascript, Typescript, React, Node**
->* 💻️ I'm currently learning **Golang, React Native** 
+>* 💻️ I'm currently learning **Golang** and creating short usercases apps with **React Native**
 >* All my projects are available at [https://marvine.vercel.app](https://marvine.vercel.app) 
 >* ✉️ How to reach me: [espiramarvin@gmail.com](espiramarvin@gmail.com) 
 
