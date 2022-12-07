@@ -6,8 +6,8 @@
    A passionate Software Engineer from Kenya.
 </h4>
 
->* Ask me about **Javascript, Typescript, React, Node**
->* 💻️ I'm currently learning **Golang** and creating short usercases apps with **React Native**
+>* Ask me about **Javascript, Typescript, React, React Native, Node**
+>* 💻️ I'm currently learning **Golang**
 >* All my projects are available at [https://marvine.vercel.app](https://marvine.vercel.app) 
 >* ✉️ How to reach me: [espiramarvin@gmail.com](espiramarvin@gmail.com) 
 
