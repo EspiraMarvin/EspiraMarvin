@@ -6,7 +6,7 @@
    A passionate Software Engineer from Kenya.
 </h4>
 
->* Ask me about **Javascript, Typescript, React, React Native, Node, Go, Python**
+>* Ask me about **Go, Javascript, Typescript, React, React Native, NodeJs, NestJs**
 >* All my projects are available at [https://marvine.vercel.app](https://marvine.vercel.app) 
 >* ✉️ How to reach me: [espiramarvin@gmail.com](espiramarvin@gmail.com) 
 
