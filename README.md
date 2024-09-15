@@ -10,12 +10,9 @@
 >* All my projects are available at [https://marvine.vercel.app](https://marvine.vercel.app) 
 >* ✉️ How to reach me: [espiramarvin@gmail.com](espiramarvin@gmail.com) 
  
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=EspiraMarvin&show_icons=true&hide_border=true" />
-
 <br>
 
-#### 🤝 Connect with me:
+#### 🤝 Connect:
  
 <a href="https://www.linkedin.com/in/marvin-espira-192348153//"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
