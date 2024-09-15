@@ -14,10 +14,6 @@
 
 #### 🤝 Connect:
  
-<a href="https://www.linkedin.com/in/marvin-espira-192348153//"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-
-<a href="https://x.com/marvinespirah"><img align="left" src="https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png" alt="Yu Shi | Twitter" width="21px"/></a>
-
-<a href="https://marvine.vercel.app/">🌍️</a>
+* <a href="https://www.linkedin.com/in/marvin-espira-192348153//"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>  <a href="https://x.com/marvinespirah"><img align="left" src="https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png" alt="Yu Shi | Twitter" width="21px"/></a>  <a href="https://marvine.vercel.app/">🌍️</a>
  
 
