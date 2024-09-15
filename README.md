@@ -9,8 +9,6 @@
 >* Ask me about **Go, Javascript, Typescript, NestJs, NodeJs, React, Vuejs, Angular, React Native, AWS/GCP**
 >* All my projects are available at [https://marvine.vercel.app](https://marvine.vercel.app) 
 >* ✉️ How to reach me: [espiramarvin@gmail.com](espiramarvin@gmail.com) 
-
-<h3 align="left">Languages and Tools:</h3>
  
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=EspiraMarvin&show_icons=true&hide_border=true" />
