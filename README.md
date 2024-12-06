@@ -7,13 +7,3 @@
 </h4>
 
 >* Ask me about **Go, Javascript, Typescript, NestJs/NodeJs, React/Nextjs, Vuejs, Angular, React Native, AWS/GCP**
->* Portfolio [https://marvine.vercel.app](https://marvine.vercel.app) 
->* ✉️ How to reach me: [espiramarvin@gmail.com](espiramarvin@gmail.com) 
-
-<br>
-
-#### Connect:
- 
-* <a href="https://www.linkedin.com/in/marvin-espira-192348153//"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>  <a href="https://x.com/marvinespirah"><img align="left" src="https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png" alt="Yu Shi | Twitter" width="21px"/></a>  <a href="https://marvine.vercel.app/">🌍️</a>
- 
-
